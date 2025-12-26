@@ -1,0 +1,4 @@
+dependencies {
+    // Product module specific dependencies
+    // example: implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+}

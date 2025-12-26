@@ -1,0 +1,33 @@
+# Gradle
+.gradle/
+build/
+.pnp/
+.pnp-debug/
+
+# Build results
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# IDEs
+.idea/
+.project
+.classpath
+.settings/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Misc
+.DS_Store
+*.orig
+target/
+out/

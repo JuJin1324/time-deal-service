@@ -1,0 +1,6 @@
+rootProject.name = 'time-deal-service'
+
+include('api')
+include('product')
+include('order')
+include('payment')
