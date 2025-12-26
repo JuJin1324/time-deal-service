@@ -3,7 +3,8 @@
 - **멀티 모듈 프로젝트 스캐폴딩** (Epic 2)
     - └ **Strategy:** `[Over-Engineering]` ADR 결정에 따라 모듈 간 의존성을 Gradle로 엄격히 제한. (✅ Completed)
 - **ArchUnit 테스트 코드 작성** (Epic 2)
-    - └ **Strategy:** `[Over-Engineering]` 설계된 아키텍처 규칙을 코드로 강제.
+    - └ **Strategy:** `[Over-Engineering]` 설계된 아키텍처 규칙을 코드로 강제. (✅ Completed)
+- README.md 에 대한 일반적인 작성 구조를 알려주고, 나는 README.md 의 작성 구조에 2W1H 를 녹여서 작성하고 싶어.
 - **API 스펙(Swagger) 정의** (Epic 1)
     - └ **Strategy:** `[Business YAGNI]` 회원가입 제외, `X-User-Id` 헤더 기반 설계.
 - **Onboarding: Project Init & Makefile** (Epic 2)
