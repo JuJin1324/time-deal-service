@@ -35,7 +35,7 @@
 |----------|------------|-----------|
 | **Language** | Java 21 | 최신 LTS 버전 및 Virtual Threads 활용 가능성 |
 | **Framework** | Spring Boot 3.x | 엔터프라이즈 백엔드 표준 |
-| **Build** | Gradle (Kotlin DSL) | 멀티 모듈 의존성의 엄격한 관리 |
+| **Build** | Gradle (Groovy DSL) | 멀티 모듈 의존성의 엄격한 관리 |
 | **Database** | MySQL 8.0 | 모듈별 스키마 논리적 분리 |
 | **Cache/Lock** | Redis | 분산 락 구현 및 캐싱 |
 | **Testing** | JUnit 5, ArchUnit | 비즈니스 로직 검증 및 아키텍처 규칙 강제 |
